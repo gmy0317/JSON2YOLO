@@ -20,3 +20,12 @@ Python 3.7 or later with the following `pip3 install -U -r requirements.txt` pac
 # Contact
 
 Issues should be raised directly in the repository. For additional questions or comments please email Glenn Jocher at glenn.jocher@ultralytics.com or visit us at https://contact.ultralytics.com.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Iris Note 10/21/2020
+Make sure edit the code(run.py) before use
+(1)line 150: remote +'.jpg'   
+(2)line:336: source = 'vott'
+(3)line 347-350: at the end of the file, edit file path and image path
