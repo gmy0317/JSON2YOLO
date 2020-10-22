@@ -28,8 +28,10 @@ Iris Note 10/21/2020
 
 Make sure edit the code(run.py) before use
 
-(1)line 150: remote +'.jpg'
+(1)line 150: remove +'.jpg'
 
 (2)line:336: source = 'vott'
 
 (3)line 347-350: at the end of the file, edit file path and image path
+
+See detail information in figure
